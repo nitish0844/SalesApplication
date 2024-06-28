@@ -18,7 +18,7 @@ const JoinToUs = () => {
               <input
                 type="text"
                 placeholder="First Name"
-                className="w-[300px] md:w-[500px] h-[40px] border-2 border-gray-400 mt-2 px-2"
+                className="w-[300px] lg:w-[300px] md:w-[500px] h-[40px] border-2 border-gray-400 mt-2 px-2"
               />
             </div>
 
@@ -27,7 +27,7 @@ const JoinToUs = () => {
               <input
                 type="text"
                 placeholder="Last Name"
-                className="w-[300px] md:w-[500px] h-[40px] border-2 border-gray-400 mt-2 px-2"
+                className="w-[300px] lg:w-[300px] md:w-[500px] h-[40px] border-2 border-gray-400 mt-2 px-2"
               />
             </div>
           </div>
