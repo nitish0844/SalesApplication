@@ -38,7 +38,7 @@ const MainScreen = () => {
   };
 
   return (
-    <div>
+    <div className="overflow-x-hidden">
       <div className="bg-[#F3F2E7]">
         <Navbar
           scrollToHowWeWork={scrollToHowWeWork}
